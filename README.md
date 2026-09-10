@@ -1,6 +1,6 @@
 # Band-Name-Generator
 
-Python
+Python /n
 #100 days of code python
 Program creation steps:
 #1. Create a greeting for my program.
